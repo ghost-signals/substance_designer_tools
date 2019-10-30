@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="256" height="256" viewBox="0 0 256 256">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #c1dbe3;
+        stroke: #55a4bb;
+        stroke-width: 17px;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-3 {
+        fill: #e6b28c;
+        stroke: #e86f16;
+        stroke-width: 14.22px;
+      }
+
+      .cls-4 {
+        fill: #e86f16;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="104" y1="69.938" x2="104" y2="9.938" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#868686"/>
+      <stop offset="1" stop-color="#bababa"/>
+    </linearGradient>
+  </defs>
+  <path id="Rounded_Rectangle_1" data-name="Rounded Rectangle 1" class="cls-1" d="M167.27,216.5H41.73A10.787,10.787,0,0,1,31,205.659V55.843A10.787,10.787,0,0,1,41.73,45H75.093a33.044,33.044,0,0,0,55.628,0H167.27A10.787,10.787,0,0,1,178,55.843V205.659A10.787,10.787,0,0,1,167.27,216.5Z"/>
+  <path id="Rounded_Rectangle_2" data-name="Rounded Rectangle 2" class="cls-2" d="M158.258,64.953a5,5,0,0,1-5,5H54.746a5,5,0,0,1-5-5V33.719H80.64c0-.191-0.014-0.381-0.014-0.574a23.243,23.243,0,0,1,46.486,0c0,0.193-.01.383-0.015,0.574h31.162V64.953ZM103.3,18.988a13.591,13.591,0,1,0,13.606,13.591A13.6,13.6,0,0,0,103.3,18.988Z"/>
+  <path class="cls-3" d="M123.1,128.224H237.141V237.812H123.1V128.224Z"/>
+  <rect class="cls-4" x="148" y="151" width="64" height="8"/>
+  <rect class="cls-4" x="148" y="170" width="38" height="8"/>
+  <rect class="cls-4" x="148" y="189" width="53" height="8"/>
+  <rect class="cls-4" x="148" y="208" width="48" height="8"/>
+</svg>
